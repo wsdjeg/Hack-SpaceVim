@@ -1,7 +1,7 @@
 [![](https://spacevim.org/img/build-with-SpaceVim.svg)](https://spacevim.org)
 [![Build Status](https://travis-ci.org/Gabirel/Hack-SpaceVim.svg?branch=master)](https://travis-ci.org/Gabirel/Hack-SpaceVim)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![spacevim-version](https://img.shields.io/badge/spacevim-v0.7.0--dev-FF00CC.svg)](https://spacevim.org)
+![spacevim-version](https://img.shields.io/badge/version-0.9.0--dev-FF69B4.svg)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Gabirel/Hack-SpaceVim.svg)](http://isitmaintained.com/project/Gabirel/Hack-SpaceVim "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Gabirel/Hack-SpaceVim.svg)](http://isitmaintained.com/project/Gabirel/Hack-SpaceVim "Percentage of issues still open")
 
@@ -12,14 +12,14 @@
 
 ## What can you get from Hack-SpaceVim
 
-* Introductions about how to install SpaceVim with **step by step** :metal:
-* Set up developing environments very fast :trollface:
-* Become a developer very quickly :sunglasses:
-* Help you get acquainted with mountains of plugins :massage_woman:
-* Make you a professional vimmer :muscle:
-* Let you hack this planet with SpaceVim :new_moon_with_face:
-* Tell you some facts somebody else won't tell you :scream:
-* Tricks you will never know(contradictory statements :smirk:)
+* :metal: Introductions about how to install SpaceVim with **step by step**
+* :trollface: Set up developing environments very fast
+* :sunglasses: Become a developer very quickly
+* :massage_woman: Help you get acquainted with mountains of plugins
+* :muscle: Make you a professional vimmer
+* :new_moon_with_face: Let you hack this planet with SpaceVim
+* :scream: Tell you some facts somebody else won't tell you
+* :smirk: Tricks you will never know, contradictory statements
 
 Table of Contents
 =================
